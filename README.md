@@ -1,4 +1,4 @@
-##Synopsis
+## Synopsis
 
 Credit card fraud is an inclusive term for fraud committed using a payment card, such as a credit card or debit card. This means a fraud when someone uses your credit card or credit account to make a purchase you didn't authorize. This activity can happen in different ways: If you lose your credit card or have it stolen, it can be used to make purchases or other transactions, either in person or online. 
  
